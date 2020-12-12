@@ -4,7 +4,7 @@ int main(int argc, char const *argv[]) {
   std::string name;
   int age;
   std::cout << "Hello, World." << '\n';
-  std::cout << "This is the first multi-line c++ prorgam I have made." << '\n';
+  std::cout << "This is the first multi-line c++ program I have made." << '\n';
   std::cout << "What is your name? ";
   std::cin >> name;
   std::cout << "Hello, ";
